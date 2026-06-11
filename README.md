@@ -28,6 +28,6 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="80%" src="https://github-profile-trophy-kannan.vercel.app/?username=vpday&theme=radical" alt="trophy" />
+    <img width="80%" src="https://github-profile-repo.vercel.app/?username=vpday&theme=radical" alt="trophy" />
   </a>
 </p>
