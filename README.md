@@ -21,8 +21,8 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="80%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vpday&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img width="80%" src="https://github-stats-extended.vercel.app/api?username=vpday&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
 </p>
 
