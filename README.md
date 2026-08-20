@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img width="80%" src="https://github-stats-extended.vercel.app/api?username=vpday&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img width="80%" src="https://github-stats-extended.vercel.app/api?username=vpday&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   </a>
 </p>
 
